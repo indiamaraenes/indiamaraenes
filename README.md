@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Indiamara Enes
 
-**Automação | Transformação Digital | e-Gov**  
+**Automação | Especialista em Inovação, Transformação Digital e Governo Eletrônico**  
 Curitiba, PR, Brasil  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/indiamara)
@@ -29,25 +29,6 @@ Curitiba, PR, Brasil
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 📝 Automação de Recibos
-- **Ferramentas:** Google Apps Script, Google Drive, Gmail  
-- **Descrição:** Sistema que gera e envia recibos automaticamente, economizando tempo e reduzindo erros.  
-- [Ver no GitHub](#)  
-
-### 📊 Painel de Vendas
-- **Ferramentas:** Power BI, Excel  
-- **Descrição:** Dashboard interativo de vendas com atualização automática e indicadores visuais.  
-- [Ver no GitHub](#)  
-
-### 🔗 Integração de Sistemas
-- **Ferramentas:** Python, APIs, n8n  
-- **Descrição:** Conecta sistemas distintos para automatizar fluxo de dados, eliminando processos manuais.  
-- [Ver no GitHub](#)  
-
----
-
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=indiamaraenes&show_icons=true&theme=dracula)
@@ -56,15 +37,6 @@ Curitiba, PR, Brasil
 
 ---
 
-## 🎓 Certificações Relevantes
-
-- Google IT Support (Portuguese)  
-- Design Sprint Learner 2025  
-- O Potencial da Inteligência Artificial no Serviço Público  
-- Programador Web  
-- Ágil no Contexto do Serviço Público  
-
----
 
 ## 📫 Contato
 
