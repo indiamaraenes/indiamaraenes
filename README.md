@@ -41,6 +41,6 @@ Curitiba, PR, Brasil
 ## 📫 Contato
 
 - 📍 Curitiba, PR  
-- 📱 (43) 99834-0549  
+- 📱 [Contato direto ](https://wa.me/5543998340549)
 - ✉️ indiamaraenes735@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/indiamara)
