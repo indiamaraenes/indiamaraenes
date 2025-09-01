@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Indiamara Enes
 
-**Automação | Especialista em Inovação, Transformação Digital e Governo Eletrônico**  
+**Automação | Analista de Sistemas Jr**  
 Curitiba, PR, Brasil  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/indiamara)
