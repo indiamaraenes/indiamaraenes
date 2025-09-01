@@ -42,5 +42,4 @@ Curitiba, PR, Brasil
 
 - 📍 Curitiba, PR  
 - 📱 [Contato direto ](https://wa.me/5543998340549)
-- ✉️ indiamaraenes735@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/indiamara)
