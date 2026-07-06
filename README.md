@@ -29,15 +29,6 @@ Curitiba, PR, Brasil
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=indiamaraenes&show_icons=true&theme=dracula)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=indiamaraenes&layout=compact&theme=dracula)
-
----
-
-
 ## 📫 Contato
 
 - 📍 Curitiba, PR  
