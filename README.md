@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Indiamara 
 
-**Automação | Analista de Sistemas Jr**  
+**Automação | Analista de Sistemas**  
 Curitiba, PR, Brasil  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/indiamara)
